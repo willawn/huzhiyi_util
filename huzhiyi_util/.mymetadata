@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="huzhiyi_util"
+  id="myeclipse.1351132263681"
+  context-root="/huzhiyi_util"
+  j2ee-spec="5.0"
+  archive="huzhiyi_util.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
